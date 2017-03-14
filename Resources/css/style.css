@@ -1,5 +1,5 @@
 body {
-  font-family: verdana;
+  font-family: verdana, sans-serif;
   background-color: black;
   text-align: center;
 }
@@ -18,7 +18,7 @@ h2 {
 
 a {
   font-size: 16px
-  color: aquamarine;
+  color: green;
 }
 
 p {
